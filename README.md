@@ -1,2 +1,4 @@
-This project has been deployed 
-Check out : https://fml-movies.vercel.app/
+Web Application for this project is created, 
+
+Check out :
+     https://fml-movies.vercel.app/
